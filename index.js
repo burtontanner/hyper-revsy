@@ -1,9 +1,9 @@
 'use strict';
 
 const colors = {
-	backgroundColor: '#231f20',
+	backgroundColor: '#000',
 	foregroundColor: '#d9d8d8',
-	black: '#000',
+	black: '#333',
 	red: "#ff4136",
 	green: '#3f0',
 	yellow: '#ff0',
