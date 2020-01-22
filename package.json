@@ -1,5 +1,5 @@
 {
-  "name": "hyper-corubo",
+  "name": "hyper-revsy",
   "version": "1.0.0",
   "description": "Description here",
   "main": "index.js",
@@ -8,15 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcker/hyper-corubo.git"
+    "url": "git+https://github.com/burtontanner/hyper-revsy.git"
   },
   "keywords": [
     "keyword"
   ],
-  "author": "marcker <marcker@youremail.com> (http://marcker.github.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marcker/hyper-corubo/issues"
+    "url": "https://github.com/burtontanner/hyper-revsy/issues"
   },
-  "homepage": "https://github.com/marcker/hyper-corubo#readme"
+  "homepage": "https://github.com/burtontanner/hyper-revsy#readme"
 }
